@@ -13,10 +13,10 @@ var Twit = require('twit');
 var io = require('socket.io').listen(server);
 
 var TwitterAPI = new Twit({ //be careful of uploading tokens to github
-	consumer_key: 'BCXRiLTmLyZpAIHSC934fKoDU',
-	consumer_secret: 'JO5vWTLoyysnnOiUnyFU07e2JHF9xcfZJ2bRaFQAgO0yUZvcnl',
-	access_token: '913817114787614720-vLs6Ekb0yP1LGXepqE78WLzmsvZZARW',
-	access_token_secret: 'HHwGRd5oNMQ9SWXtzGXJvglfQMljd5OidEL4YMRysVnbQ',
+	consumer_key: ' ',
+	consumer_secret: ' ',
+	access_token: ' ',
+	access_token_secret: ' ',
 	timeout_ms: 60 * 1000 //optional timeout so you don't get banned
 });
 
