@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+npm-debug.log
+background.pdf
+jsFinal_demo.mov
+Package-lock.json
